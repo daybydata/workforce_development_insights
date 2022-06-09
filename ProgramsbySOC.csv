@@ -1,0 +1,300 @@
+UNITID,INSTNM,CIPCODE,CIPTitle,SOC,SOCTitle
+197850,South Piedmont Community College,11.0103,Information Technology,15-1241.00,Computer Network Architects
+197850,South Piedmont Community College,11.0103,Information Technology,15-1243.01,Data Warehousing Specialists
+197850,South Piedmont Community College,11.0103,Information Technology,15-1243.00,Database Architects
+197850,South Piedmont Community College,11.0103,Information Technology,15-1212.00,Information Security Analysts
+197850,South Piedmont Community College,11.0103,Information Technology,15-1241.01,Telecommunications Engineering Specialists
+198260,Central Piedmont Community College,11.0103,Information Technology,15-1241.00,Computer Network Architects
+198260,Central Piedmont Community College,11.0103,Information Technology,15-1243.01,Data Warehousing Specialists
+198260,Central Piedmont Community College,11.0103,Information Technology,15-1243.00,Database Architects
+198260,Central Piedmont Community College,11.0103,Information Technology,15-1212.00,Information Security Analysts
+198260,Central Piedmont Community College,11.0103,Information Technology,15-1241.01,Telecommunications Engineering Specialists
+198570,Gaston College,11.0103,Information Technology,15-1241.00,Computer Network Architects
+198570,Gaston College,11.0103,Information Technology,15-1243.01,Data Warehousing Specialists
+198570,Gaston College,11.0103,Information Technology,15-1243.00,Database Architects
+198570,Gaston College,11.0103,Information Technology,15-1212.00,Information Security Analysts
+198570,Gaston College,11.0103,Information Technology,15-1241.01,Telecommunications Engineering Specialists
+198756,Johnson C Smith University,11.0103,Information Technology,15-1241.00,Computer Network Architects
+198756,Johnson C Smith University,11.0103,Information Technology,15-1243.01,Data Warehousing Specialists
+198756,Johnson C Smith University,11.0103,Information Technology,15-1243.00,Database Architects
+198756,Johnson C Smith University,11.0103,Information Technology,15-1212.00,Information Security Analysts
+198756,Johnson C Smith University,11.0103,Information Technology,15-1241.01,Telecommunications Engineering Specialists
+198987,Mitchell Community College,11.0103,Information Technology,15-1241.00,Computer Network Architects
+198987,Mitchell Community College,11.0103,Information Technology,15-1243.01,Data Warehousing Specialists
+198987,Mitchell Community College,11.0103,Information Technology,15-1243.00,Database Architects
+198987,Mitchell Community College,11.0103,Information Technology,15-1212.00,Information Security Analysts
+198987,Mitchell Community College,11.0103,Information Technology,15-1241.01,Telecommunications Engineering Specialists
+199139,University of North Carolina at Charlotte,11.0103,Information Technology,15-1241.00,Computer Network Architects
+199139,University of North Carolina at Charlotte,11.0103,Information Technology,15-1243.01,Data Warehousing Specialists
+199139,University of North Carolina at Charlotte,11.0103,Information Technology,15-1243.00,Database Architects
+199139,University of North Carolina at Charlotte,11.0103,Information Technology,15-1212.00,Information Security Analysts
+199139,University of North Carolina at Charlotte,11.0103,Information Technology,15-1241.01,Telecommunications Engineering Specialists
+199494,Rowan-Cabarrus Community College,11.0103,Information Technology,15-1241.00,Computer Network Architects
+199494,Rowan-Cabarrus Community College,11.0103,Information Technology,15-1243.01,Data Warehousing Specialists
+199494,Rowan-Cabarrus Community College,11.0103,Information Technology,15-1243.00,Database Architects
+199494,Rowan-Cabarrus Community College,11.0103,Information Technology,15-1212.00,Information Security Analysts
+199494,Rowan-Cabarrus Community College,11.0103,Information Technology,15-1241.01,Telecommunications Engineering Specialists
+197850,South Piedmont Community College,43.0403,Cyber/Computer Forensics and Counterterrorism,15-1212.00,Information Security Analysts
+197850,South Piedmont Community College,51.0801,Medical/Clinical Assistant,31-9092.00,Medical Assistants
+198109,Cabarrus College of Health Sciences,51.0801,Medical/Clinical Assistant,31-9092.00,Medical Assistants
+198260,Central Piedmont Community College,51.0801,Medical/Clinical Assistant,31-9092.00,Medical Assistants
+198570,Gaston College,51.0801,Medical/Clinical Assistant,31-9092.00,Medical Assistants
+198987,Mitchell Community College,51.0801,Medical/Clinical Assistant,31-9092.00,Medical Assistants
+218991,York Technical College,51.0801,Medical/Clinical Assistant,31-9092.00,Medical Assistants
+451352,Southeastern College-Charlotte,51.0801,Medical/Clinical Assistant,31-9092.00,Medical Assistants
+197850,South Piedmont Community College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2042.00,Emergency Medical Technicians
+197850,South Piedmont Community College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2043.00,Paramedics
+198260,Central Piedmont Community College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2042.00,Emergency Medical Technicians
+198260,Central Piedmont Community College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2043.00,Paramedics
+198570,Gaston College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2042.00,Emergency Medical Technicians
+198570,Gaston College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2043.00,Paramedics
+198987,Mitchell Community College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2042.00,Emergency Medical Technicians
+198987,Mitchell Community College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2043.00,Paramedics
+199494,Rowan-Cabarrus Community College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2042.00,Emergency Medical Technicians
+199494,Rowan-Cabarrus Community College,51.0904,Emergency Medical Technology/Technician (EMT Paramedic),29-2043.00,Paramedics
+197850,South Piedmont Community College,51.091,Diagnostic Medical Sonography/Sonographer and Ultrasound Technician,29-2032.00,Diagnostic Medical Sonographers
+197850,South Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+197850,South Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+197850,South Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+197850,South Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+197850,South Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+197984,Belmont Abbey College,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+197984,Belmont Abbey College,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+197984,Belmont Abbey College,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+197984,Belmont Abbey College,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+197984,Belmont Abbey College,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+198109,Cabarrus College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+198109,Cabarrus College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+198109,Cabarrus College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+198109,Cabarrus College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+198109,Cabarrus College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+198215,Catawba College,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+198215,Catawba College,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+198215,Catawba College,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+198215,Catawba College,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+198215,Catawba College,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+198260,Central Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+198260,Central Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+198260,Central Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+198260,Central Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+198260,Central Piedmont Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+198570,Gaston College,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+198570,Gaston College,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+198570,Gaston College,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+198570,Gaston College,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+198570,Gaston College,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+198987,Mitchell Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+198987,Mitchell Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+198987,Mitchell Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+198987,Mitchell Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+198987,Mitchell Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+199139,University of North Carolina at Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+199139,University of North Carolina at Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+199139,University of North Carolina at Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+199139,University of North Carolina at Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+199139,University of North Carolina at Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+199412,Queens University of Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+199412,Queens University of Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+199412,Queens University of Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+199412,Queens University of Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+199412,Queens University of Charlotte,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+199494,Rowan-Cabarrus Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+199494,Rowan-Cabarrus Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+199494,Rowan-Cabarrus Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+199494,Rowan-Cabarrus Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+199494,Rowan-Cabarrus Community College,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+199962,Wingate University,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+199962,Wingate University,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+199962,Wingate University,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+199962,Wingate University,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+199962,Wingate University,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+218672,University of South Carolina-Lancaster,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+218672,University of South Carolina-Lancaster,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+218672,University of South Carolina-Lancaster,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+218672,University of South Carolina-Lancaster,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+218672,University of South Carolina-Lancaster,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+218991,York Technical College,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+218991,York Technical College,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+218991,York Technical College,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+218991,York Technical College,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+218991,York Technical College,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+433174,Carolinas College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+433174,Carolinas College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+433174,Carolinas College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+433174,Carolinas College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+433174,Carolinas College of Health Sciences,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+489344,Chamberlain University-North Carolina,51.3801,Registered Nursing/Registered Nurse,29-1141.01,Acute Care Nurses
+489344,Chamberlain University-North Carolina,51.3801,Registered Nursing/Registered Nurse,29-1141.02,Advanced Practice Psychiatric Nurses
+489344,Chamberlain University-North Carolina,51.3801,Registered Nursing/Registered Nurse,29-1141.04,Clinical Nurse Specialists
+489344,Chamberlain University-North Carolina,51.3801,Registered Nursing/Registered Nurse,29-1141.03,Critical Care Nurses
+489344,Chamberlain University-North Carolina,51.3801,Registered Nursing/Registered Nurse,29-1141.00,Registered Nurses
+197850,South Piedmont Community College,51.3901,Licensed Practical/Vocational Nurse Training,29-2061.00,Licensed Practical and Licensed Vocational Nurses
+198570,Gaston College,51.3901,Licensed Practical/Vocational Nurse Training,29-2061.00,Licensed Practical and Licensed Vocational Nurses
+199494,Rowan-Cabarrus Community College,51.3901,Licensed Practical/Vocational Nurse Training,29-2061.00,Licensed Practical and Licensed Vocational Nurses
+218991,York Technical College,51.3901,Licensed Practical/Vocational Nurse Training,29-2061.00,Licensed Practical and Licensed Vocational Nurses
+197850,South Piedmont Community College,51.3902,Nursing Assistant/Aide and Patient Care Assistant/Aide,31-1131.00,Nursing Assistants
+198260,Central Piedmont Community College,51.3902,Nursing Assistant/Aide and Patient Care Assistant/Aide,31-1131.00,Nursing Assistants
+198570,Gaston College,51.3902,Nursing Assistant/Aide and Patient Care Assistant/Aide,31-1131.00,Nursing Assistants
+199494,Rowan-Cabarrus Community College,51.3902,Nursing Assistant/Aide and Patient Care Assistant/Aide,31-1131.00,Nursing Assistants
+218991,York Technical College,51.3902,Nursing Assistant/Aide and Patient Care Assistant/Aide,31-1131.00,Nursing Assistants
+197850,South Piedmont Community College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+197984,Belmont Abbey College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+198215,Catawba College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+198260,Central Piedmont Community College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+198570,Gaston College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+198756,Johnson C Smith University,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+198862,Livingstone College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+198987,Mitchell Community College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+199139,University of North Carolina at Charlotte,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+199412,Queens University of Charlotte,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+199494,Rowan-Cabarrus Community College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+199962,Wingate University,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+217891,Clinton College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+218964,Winthrop University,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+218991,York Technical College,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+445708,Johnson & Wales University-Charlotte,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+482565,DeVry University-North Carolina,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+484729,University of Phoenix-North Carolina,52.0201,"Business Administration and Management, General",13-1081.00,Logisticians
+197984,Belmont Abbey College,52.0203,"Logistics, Materials, and Supply Chain Management",13-1081.00,Logisticians
+198260,Central Piedmont Community College,52.0203,"Logistics, Materials, and Supply Chain Management",13-1081.00,Logisticians
+198570,Gaston College,52.0203,"Logistics, Materials, and Supply Chain Management",13-1081.00,Logisticians
+197984,Belmont Abbey College,52.1401,"Marketing/Marketing Management, General",13-1161.00,Market Research Analysts and Marketing Specialists
+198215,Catawba College,52.1401,"Marketing/Marketing Management, General",13-1161.00,Market Research Analysts and Marketing Specialists
+199139,University of North Carolina at Charlotte,52.1401,"Marketing/Marketing Management, General",13-1161.00,Market Research Analysts and Marketing Specialists
+199412,Queens University of Charlotte,52.1401,"Marketing/Marketing Management, General",13-1161.00,Market Research Analysts and Marketing Specialists
+199962,Wingate University,52.1401,"Marketing/Marketing Management, General",13-1161.00,Market Research Analysts and Marketing Specialists
+445708,Johnson & Wales University-Charlotte,52.1401,"Marketing/Marketing Management, General",13-1161.00,Market Research Analysts and Marketing Specialists
+198109,Cabarrus College of Health Sciences,51.0909,Surgical Technology/Technologist,29-2055.00,Surgical Technologists
+198260,Central Piedmont Community College,51.0909,Surgical Technology/Technologist,29-2055.00,Surgical Technologists
+218991,York Technical College,51.0909,Surgical Technology/Technologist,29-2055.00,Surgical Technologists
+451352,Southeastern College-Charlotte,51.0909,Surgical Technology/Technologist,29-2055.00,Surgical Technologists
+198109,Cabarrus College of Health Sciences,51.0911,Radiologic Technology/Science - Radiographer,29-2034.00,Radiologic Technologists and Technicians
+199494,Rowan-Cabarrus Community College,51.0911,Radiologic Technology/Science - Radiographer,29-2034.00,Radiologic Technologists and Technicians
+433174,Carolinas College of Health Sciences,51.0911,Radiologic Technology/Science - Radiographer,29-2034.00,Radiologic Technologists and Technicians
+198109,Cabarrus College of Health Sciences,51.3802,Nursing Administration,29-1141.01,Acute Care Nurses
+198109,Cabarrus College of Health Sciences,51.3802,Nursing Administration,29-1141.02,Advanced Practice Psychiatric Nurses
+198109,Cabarrus College of Health Sciences,51.3802,Nursing Administration,29-1141.04,Clinical Nurse Specialists
+198109,Cabarrus College of Health Sciences,51.3802,Nursing Administration,29-1141.03,Critical Care Nurses
+198109,Cabarrus College of Health Sciences,51.3802,Nursing Administration,29-1141.00,Registered Nurses
+199412,Queens University of Charlotte,51.3802,Nursing Administration,29-1141.01,Acute Care Nurses
+199412,Queens University of Charlotte,51.3802,Nursing Administration,29-1141.02,Advanced Practice Psychiatric Nurses
+199412,Queens University of Charlotte,51.3802,Nursing Administration,29-1141.04,Clinical Nurse Specialists
+199412,Queens University of Charlotte,51.3802,Nursing Administration,29-1141.03,Critical Care Nurses
+199412,Queens University of Charlotte,51.3802,Nursing Administration,29-1141.00,Registered Nurses
+198215,Catawba College,11.0101,"Computer and Information Sciences, General",15-1241.00,Computer Network Architects
+198215,Catawba College,11.0101,"Computer and Information Sciences, General",15-1243.01,Data Warehousing Specialists
+198215,Catawba College,11.0101,"Computer and Information Sciences, General",15-1242.00,Database Administrators
+198215,Catawba College,11.0101,"Computer and Information Sciences, General",15-1243.00,Database Architects
+198215,Catawba College,11.0101,"Computer and Information Sciences, General",15-1244.00,Network and Computer Systems Administrators
+198215,Catawba College,11.0101,"Computer and Information Sciences, General",15-1241.01,Telecommunications Engineering Specialists
+198385,Davidson College,11.0101,"Computer and Information Sciences, General",15-1241.00,Computer Network Architects
+198385,Davidson College,11.0101,"Computer and Information Sciences, General",15-1243.01,Data Warehousing Specialists
+198385,Davidson College,11.0101,"Computer and Information Sciences, General",15-1242.00,Database Administrators
+198385,Davidson College,11.0101,"Computer and Information Sciences, General",15-1243.00,Database Architects
+198385,Davidson College,11.0101,"Computer and Information Sciences, General",15-1244.00,Network and Computer Systems Administrators
+198385,Davidson College,11.0101,"Computer and Information Sciences, General",15-1241.01,Telecommunications Engineering Specialists
+198756,Johnson C Smith University,11.0101,"Computer and Information Sciences, General",15-1241.00,Computer Network Architects
+198756,Johnson C Smith University,11.0101,"Computer and Information Sciences, General",15-1243.01,Data Warehousing Specialists
+198756,Johnson C Smith University,11.0101,"Computer and Information Sciences, General",15-1242.00,Database Administrators
+198756,Johnson C Smith University,11.0101,"Computer and Information Sciences, General",15-1243.00,Database Architects
+198756,Johnson C Smith University,11.0101,"Computer and Information Sciences, General",15-1244.00,Network and Computer Systems Administrators
+198756,Johnson C Smith University,11.0101,"Computer and Information Sciences, General",15-1241.01,Telecommunications Engineering Specialists
+198862,Livingstone College,11.0101,"Computer and Information Sciences, General",15-1241.00,Computer Network Architects
+198862,Livingstone College,11.0101,"Computer and Information Sciences, General",15-1243.01,Data Warehousing Specialists
+198862,Livingstone College,11.0101,"Computer and Information Sciences, General",15-1242.00,Database Administrators
+198862,Livingstone College,11.0101,"Computer and Information Sciences, General",15-1243.00,Database Architects
+198862,Livingstone College,11.0101,"Computer and Information Sciences, General",15-1244.00,Network and Computer Systems Administrators
+198862,Livingstone College,11.0101,"Computer and Information Sciences, General",15-1241.01,Telecommunications Engineering Specialists
+199139,University of North Carolina at Charlotte,11.0101,"Computer and Information Sciences, General",15-1241.00,Computer Network Architects
+199139,University of North Carolina at Charlotte,11.0101,"Computer and Information Sciences, General",15-1243.01,Data Warehousing Specialists
+199139,University of North Carolina at Charlotte,11.0101,"Computer and Information Sciences, General",15-1242.00,Database Administrators
+199139,University of North Carolina at Charlotte,11.0101,"Computer and Information Sciences, General",15-1243.00,Database Architects
+199139,University of North Carolina at Charlotte,11.0101,"Computer and Information Sciences, General",15-1244.00,Network and Computer Systems Administrators
+199139,University of North Carolina at Charlotte,11.0101,"Computer and Information Sciences, General",15-1241.01,Telecommunications Engineering Specialists
+218964,Winthrop University,11.0101,"Computer and Information Sciences, General",15-1241.00,Computer Network Architects
+218964,Winthrop University,11.0101,"Computer and Information Sciences, General",15-1243.01,Data Warehousing Specialists
+218964,Winthrop University,11.0101,"Computer and Information Sciences, General",15-1242.00,Database Administrators
+218964,Winthrop University,11.0101,"Computer and Information Sciences, General",15-1243.00,Database Architects
+218964,Winthrop University,11.0101,"Computer and Information Sciences, General",15-1244.00,Network and Computer Systems Administrators
+218964,Winthrop University,11.0101,"Computer and Information Sciences, General",15-1241.01,Telecommunications Engineering Specialists
+198260,Central Piedmont Community College,51.1002,Cytotechnology/Cytotechnologist,29-2011.01,Cytogenetic Technologists
+198260,Central Piedmont Community College,51.1002,Cytotechnology/Cytotechnologist,29-2011.02,Cytotechnologists
+198260,Central Piedmont Community College,51.1002,Cytotechnology/Cytotechnologist,29-2011.04,Histotechnologists
+198260,Central Piedmont Community College,51.1002,Cytotechnology/Cytotechnologist,29-2011.00,Medical and Clinical Laboratory Technologists
+198260,Central Piedmont Community College,51.1004,Clinical/Medical Laboratory Technician,29-2012.01,Histology Technicians
+198260,Central Piedmont Community College,51.1004,Clinical/Medical Laboratory Technician,29-2012.00,Medical and Clinical Laboratory Technicians
+218991,York Technical College,51.1004,Clinical/Medical Laboratory Technician,29-2012.01,Histology Technicians
+218991,York Technical College,51.1004,Clinical/Medical Laboratory Technician,29-2012.00,Medical and Clinical Laboratory Technicians
+198570,Gaston College,11.0401,Information Science/Studies,15-1243.01,Data Warehousing Specialists
+198570,Gaston College,11.0401,Information Science/Studies,15-1243.00,Database Architects
+198570,Gaston College,11.0901,Computer Systems Networking and Telecommunications,15-1241.00,Computer Network Architects
+198570,Gaston College,11.0901,Computer Systems Networking and Telecommunications,15-1212.00,Information Security Analysts
+198570,Gaston College,11.0901,Computer Systems Networking and Telecommunications,15-1241.01,Telecommunications Engineering Specialists
+482565,DeVry University-North Carolina,11.0901,Computer Systems Networking and Telecommunications,15-1241.00,Computer Network Architects
+482565,DeVry University-North Carolina,11.0901,Computer Systems Networking and Telecommunications,15-1212.00,Information Security Analysts
+482565,DeVry University-North Carolina,11.0901,Computer Systems Networking and Telecommunications,15-1241.01,Telecommunications Engineering Specialists
+198570,Gaston College,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1241.00,Computer Network Architects
+198570,Gaston College,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1243.01,Data Warehousing Specialists
+198570,Gaston College,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1242.00,Database Administrators
+198570,Gaston College,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1243.00,Database Architects
+198570,Gaston College,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1212.00,Information Security Analysts
+198570,Gaston College,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1244.00,Network and Computer Systems Administrators
+198570,Gaston College,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1241.01,Telecommunications Engineering Specialists
+199139,University of North Carolina at Charlotte,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1241.00,Computer Network Architects
+199139,University of North Carolina at Charlotte,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1243.01,Data Warehousing Specialists
+199139,University of North Carolina at Charlotte,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1242.00,Database Administrators
+199139,University of North Carolina at Charlotte,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1243.00,Database Architects
+199139,University of North Carolina at Charlotte,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1212.00,Information Security Analysts
+199139,University of North Carolina at Charlotte,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1244.00,Network and Computer Systems Administrators
+199139,University of North Carolina at Charlotte,11.1003,Computer and Information Systems Security/Auditing/Information Assurance,15-1241.01,Telecommunications Engineering Specialists
+198570,Gaston College,48.0503,Machine Shop Technology/Assistant,51-4041.00,Machinists
+198987,Mitchell Community College,48.0503,Machine Shop Technology/Assistant,51-4041.00,Machinists
+199494,Rowan-Cabarrus Community College,48.0503,Machine Shop Technology/Assistant,51-4041.00,Machinists
+494764,Aviation Institute of Maintenance-Charlotte,48.0503,Machine Shop Technology/Assistant,51-4041.00,Machinists
+198570,Gaston College,51.0709,Medical Office Computer Specialist/Assistant,15-1232.00,Computer User Support Specialists
+198756,Johnson C Smith University,14.0901,"Computer Engineering, General",15-1241.00,Computer Network Architects
+198756,Johnson C Smith University,14.0901,"Computer Engineering, General",15-1243.01,Data Warehousing Specialists
+198756,Johnson C Smith University,14.0901,"Computer Engineering, General",15-1243.00,Database Architects
+198756,Johnson C Smith University,14.0901,"Computer Engineering, General",15-1241.01,Telecommunications Engineering Specialists
+199139,University of North Carolina at Charlotte,14.0901,"Computer Engineering, General",15-1241.00,Computer Network Architects
+199139,University of North Carolina at Charlotte,14.0901,"Computer Engineering, General",15-1243.01,Data Warehousing Specialists
+199139,University of North Carolina at Charlotte,14.0901,"Computer Engineering, General",15-1243.00,Database Architects
+199139,University of North Carolina at Charlotte,14.0901,"Computer Engineering, General",15-1241.01,Telecommunications Engineering Specialists
+199139,University of North Carolina at Charlotte,11.0701,Computer Science,15-1243.01,Data Warehousing Specialists
+199139,University of North Carolina at Charlotte,11.0701,Computer Science,15-1243.00,Database Architects
+199139,University of North Carolina at Charlotte,11.0701,Computer Science,15-1212.00,Information Security Analysts
+199139,University of North Carolina at Charlotte,14.2701,Systems Engineering,15-1243.01,Data Warehousing Specialists
+199139,University of North Carolina at Charlotte,14.2701,Systems Engineering,15-1243.00,Database Architects
+199139,University of North Carolina at Charlotte,51.3818,Nursing Practice,29-1141.01,Acute Care Nurses
+199139,University of North Carolina at Charlotte,51.3818,Nursing Practice,29-1141.02,Advanced Practice Psychiatric Nurses
+199139,University of North Carolina at Charlotte,51.3818,Nursing Practice,29-1141.04,Clinical Nurse Specialists
+199139,University of North Carolina at Charlotte,51.3818,Nursing Practice,29-1141.03,Critical Care Nurses
+199139,University of North Carolina at Charlotte,51.3818,Nursing Practice,29-1141.00,Registered Nurses
+199139,University of North Carolina at Charlotte,51.3899,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other",29-1141.01,Acute Care Nurses
+199139,University of North Carolina at Charlotte,51.3899,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other",29-1141.02,Advanced Practice Psychiatric Nurses
+199139,University of North Carolina at Charlotte,51.3899,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other",29-1141.04,Clinical Nurse Specialists
+199139,University of North Carolina at Charlotte,51.3899,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other",29-1141.03,Critical Care Nurses
+199139,University of North Carolina at Charlotte,51.3899,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing, Other",29-1141.00,Registered Nurses
+199139,University of North Carolina at Charlotte,52.0205,Operations Management and Supervision,13-1081.00,Logisticians
+199412,Queens University of Charlotte,51.382,Clinical Nurse Leader,29-1141.01,Acute Care Nurses
+199412,Queens University of Charlotte,51.382,Clinical Nurse Leader,29-1141.02,Advanced Practice Psychiatric Nurses
+199412,Queens University of Charlotte,51.382,Clinical Nurse Leader,29-1141.04,Clinical Nurse Specialists
+199412,Queens University of Charlotte,51.382,Clinical Nurse Leader,29-1141.03,Critical Care Nurses
+199412,Queens University of Charlotte,51.382,Clinical Nurse Leader,29-1141.00,Registered Nurses
+218991,York Technical College,48.0501,Machine Tool Technology/Machinist,51-4041.00,Machinists
+218991,York Technical College,51.0907,Medical Radiologic Technology/Science - Radiation Therapist,29-2034.00,Radiologic Technologists and Technicians
+433174,Carolinas College of Health Sciences,51.0907,Medical Radiologic Technology/Science - Radiation Therapist,29-2034.00,Radiologic Technologists and Technicians
+433174,Carolinas College of Health Sciences,51.1005,Clinical Laboratory Science/Medical Technology/Technologist,29-2011.01,Cytogenetic Technologists
+433174,Carolinas College of Health Sciences,51.1005,Clinical Laboratory Science/Medical Technology/Technologist,29-2011.02,Cytotechnologists
+433174,Carolinas College of Health Sciences,51.1005,Clinical Laboratory Science/Medical Technology/Technologist,29-2011.04,Histotechnologists
+433174,Carolinas College of Health Sciences,51.1005,Clinical Laboratory Science/Medical Technology/Technologist,29-2011.00,Medical and Clinical Laboratory Technologists
+433174,Carolinas College of Health Sciences,51.1007,Histologic Technology/Histotechnologist,29-2011.01,Cytogenetic Technologists
+433174,Carolinas College of Health Sciences,51.1007,Histologic Technology/Histotechnologist,29-2011.02,Cytotechnologists
+433174,Carolinas College of Health Sciences,51.1007,Histologic Technology/Histotechnologist,29-2011.04,Histotechnologists
+433174,Carolinas College of Health Sciences,51.1007,Histologic Technology/Histotechnologist,29-2011.00,Medical and Clinical Laboratory Technologists
+482565,DeVry University-North Carolina,11.0501,Computer Systems Analysis/Analyst,15-1241.00,Computer Network Architects
+482565,DeVry University-North Carolina,11.0501,Computer Systems Analysis/Analyst,15-1243.01,Data Warehousing Specialists
+482565,DeVry University-North Carolina,11.0501,Computer Systems Analysis/Analyst,15-1243.00,Database Architects
+482565,DeVry University-North Carolina,11.0501,Computer Systems Analysis/Analyst,15-1241.01,Telecommunications Engineering Specialists
+482565,DeVry University-North Carolina,52.1201,"Management Information Systems, General",15-1243.01,Data Warehousing Specialists
+482565,DeVry University-North Carolina,52.1201,"Management Information Systems, General",15-1243.00,Database Architects
